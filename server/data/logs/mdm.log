@@ -1,0 +1,10 @@
+2026-11-23 14:12:09,293 INFO adipack.mqtt.broker: Broker MQTT escuchando en 0.0.0.0:1883
+2026-11-23 14:12:09,328 INFO adipack.mqtt: Servidor conectado al broker MQTT (puerto 1883)
+2026-11-23 14:26:27,667 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:31:43,025 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:34:07,592 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:35:13,476 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:36:42,188 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:41:10,275 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:42:30,764 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
+2026-11-23 14:43:43,707 INFO adipack.mqtt.broker: Cliente tablet-2 sin actividad (keep-alive vencido)
